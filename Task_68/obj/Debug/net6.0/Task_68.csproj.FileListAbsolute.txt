@@ -1,0 +1,15 @@
+I:\Lesson 9. Recursion\Task_68\obj\Debug\net6.0\Task_68.csproj.AssemblyReference.cache
+I:\Lesson 9. Recursion\Task_68\obj\Debug\net6.0\Task_68.GeneratedMSBuildEditorConfig.editorconfig
+I:\Lesson 9. Recursion\Task_68\obj\Debug\net6.0\Task_68.AssemblyInfoInputs.cache
+I:\Lesson 9. Recursion\Task_68\obj\Debug\net6.0\Task_68.AssemblyInfo.cs
+I:\Lesson 9. Recursion\Task_68\obj\Debug\net6.0\Task_68.csproj.CoreCompileInputs.cache
+I:\Lesson 9. Recursion\Task_68\bin\Debug\net6.0\Task_68.exe
+I:\Lesson 9. Recursion\Task_68\bin\Debug\net6.0\Task_68.deps.json
+I:\Lesson 9. Recursion\Task_68\bin\Debug\net6.0\Task_68.runtimeconfig.json
+I:\Lesson 9. Recursion\Task_68\bin\Debug\net6.0\Task_68.dll
+I:\Lesson 9. Recursion\Task_68\bin\Debug\net6.0\Task_68.pdb
+I:\Lesson 9. Recursion\Task_68\obj\Debug\net6.0\Task_68.dll
+I:\Lesson 9. Recursion\Task_68\obj\Debug\net6.0\refint\Task_68.dll
+I:\Lesson 9. Recursion\Task_68\obj\Debug\net6.0\Task_68.pdb
+I:\Lesson 9. Recursion\Task_68\obj\Debug\net6.0\Task_68.genruntimeconfig.cache
+I:\Lesson 9. Recursion\Task_68\obj\Debug\net6.0\ref\Task_68.dll
